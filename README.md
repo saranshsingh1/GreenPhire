@@ -1,3 +1,5 @@
+Code is written in Python3 version 3.5
+
 Assessment_V1 contains the code for the following conditions:
 
 1. Chooses all the numbers(1st 5 numbers and the Powerball number) from the input of the user. 
